@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-28T19:28:07.517Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-12-28T15:33:07.517Z"
+    },
+    {
+      "description": "ceva",
+      "price": 5,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-12-29T03:23:54.128Z",
+      "id": 3
+    },
+    {
+      "description": "cu",
+      "price": 20,
+      "category": "sexo",
+      "type": "income",
+      "createdAt": "2023-12-31T04:35:12.552Z",
+      "id": 4
+    },
+    {
+      "description": "Cu",
+      "price": 50,
+      "category": "buceta",
+      "type": "income",
+      "createdAt": "2023-12-31T21:27:19.209Z",
+      "id": 5
+    },
+    {
+      "description": "cu",
+      "price": 60,
+      "category": "bucetao",
+      "type": "outcome",
+      "createdAt": "2023-12-31T21:29:09.755Z",
+      "id": 6
+    },
+    {
+      "description": "oie",
+      "price": 47,
+      "category": "tchauor",
+      "type": "outcome",
+      "createdAt": "2023-12-31T21:31:07.485Z",
+      "id": 7
+    }
+  ]
+}
