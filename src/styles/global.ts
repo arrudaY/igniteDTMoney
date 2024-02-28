@@ -1,9 +1,9 @@
-import { createGlobalStyle, css } from 'styled-components';
+import { createGlobalStyle, css } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
     * {
-        margin:     0;
-        padding:    0;
+        margin: 0;
+        padding: 0;
         box-sizing: border-box;
     }
     :focus {
@@ -12,11 +12,11 @@ export const GlobalStyle = createGlobalStyle`
     }
     body {
         ${({ theme }) => css`
-            color:      ${theme.colors['gray-100']};
-            background: ${theme.colors['gray-800']};
+          color: ${theme.colors['gray-100']};
+          background: ${theme.colors['gray-800']};
         `};
     }
     body, input, textarea, button {
         font: 400 1rem Roboto, sans-serif;
     }
-`;
+`
